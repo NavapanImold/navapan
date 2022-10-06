@@ -6,7 +6,7 @@
 <p>
 <label for="CustomerId">รหัสลูกค้า</label>
 <input type="text" name="CustomerId" id="CustomerId" value=""/>
-</p>
+</p>dsdsa
 <p>
 <label for="CartId">ตะกร้าสินค้า</label>
 <input type="text" name="CartId" id="CartId" value="" />
